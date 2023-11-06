@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+.backImage{
+    background-color: slategray;
+}
+.cardSpace{
+    margin: auto;
+    
+
+}
+.textCard{
+    font-family: 'Dancing Script', cursive;
+}
